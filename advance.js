@@ -208,6 +208,11 @@ function initOutputMode() {
         option.text = devCfg[i];
         main.add(option);
     }
+    var none_option  = document.createElement("option");
+    none_option.value = 255;
+    none_option.text = "None";
+    main.add(none_option);
+
     main.id = "outputMode";
     span.appendChild(label);
     span.appendChild(main);
