@@ -407,6 +407,7 @@ export const systemCfg = [
     "Parallel_1P_OD",
     "Parallel_2P_OD",
     "SEA Board",
+    "REAL_WII"
 ];
 
 export const multitapCfg = [
