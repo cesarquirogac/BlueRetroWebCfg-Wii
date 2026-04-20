@@ -1,6 +1,6 @@
 {
-    "name":"Xbox to GameCube with merged analog & digital trigger",
-    "desc":"Xbox preset for GameCube with merged analog and digital triggers to the source main triggers. The digital trigger is pressed once at 95%. A, B, X, Y are mapping considering regular distance from common combos",
+    "name":"Real GameCube with digital L and R",
+    "desc":"Preset for Gbros adapter in GameCube, using digital L and R of a real GC controller",
     "console":"GC",
     "map":[
         ["PAD_LX_LEFT",  "PAD_LX_LEFT",  0, 100, 50, 90, 0, 0, 0],
@@ -15,16 +15,16 @@
         ["PAD_LD_RIGHT", "PAD_LD_RIGHT", 0, 100, 50, 90, 0, 0, 0],
         ["PAD_LD_DOWN",  "PAD_LD_DOWN",  0, 100, 50, 90, 0, 0, 0],
         ["PAD_LD_UP",    "PAD_LD_UP",    0, 100, 50, 90, 0, 0, 0],
-        ["PAD_RB_LEFT",  "PAD_RB_UP",    0, 100, 50, 90, 0, 0, 0],
-        ["PAD_RB_RIGHT", "PAD_RB_LEFT",  0, 100, 50, 90, 0, 0, 0],
+        ["PAD_RB_LEFT",  "PAD_RB_LEFT",  0, 100, 50, 90, 0, 0, 0],
+        ["PAD_RB_RIGHT", "PAD_RB_RIGHT", 0, 100, 50, 90, 0, 0, 0],
         ["PAD_RB_DOWN",  "PAD_RB_DOWN",  0, 100, 50, 90, 0, 0, 0],
-        ["PAD_RB_UP",    "PAD_RB_RIGHT", 0, 100, 50, 90, 0, 0, 0],
+        ["PAD_RB_UP",    "PAD_RB_UP",    0, 100, 50, 90, 0, 0, 0],
         ["PAD_MM",       "PAD_MM",       0, 100, 50, 90, 0, 0, 0],
         ["PAD_MS",       "PAD_MS",       0, 100, 50, 90, 0, 0, 0],
         ["PAD_LM",       "PAD_LM",       0, 100, 50, 90, 0, 0, 0],
-        ["PAD_LM",       "PAD_LT",       0, 100, 95, 90, 0, 0, 0],
+        ["PAD_LT",       "PAD_LT",       0, 100, 50, 90, 0, 0, 0],
         ["PAD_RM",       "PAD_RM",       0, 100, 50, 90, 0, 0, 0],
-        ["PAD_RM",       "PAD_RT",       0, 100, 95, 90, 0, 0, 0],
+        ["PAD_RT",       "PAD_RT",       0, 100, 50, 90, 0, 0, 0],
         ["PAD_RS",       "PAD_RS",       0, 100, 50, 90, 0, 0, 0]
     ]
 }
